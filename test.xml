@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daraz Website">
+    <test name="Test">
+        <classes>
+            <class name="jasmin.akter.tests.LoginPage_Test"/>
+            <class name="jasmin.akter.tests.SearchProductPage_Test"/>
+            <class name="jasmin.akter.tests.CartPage_Test"/>
+            <class name="jasmin.akter.tests.LogoutPage_Test"/>
+        </classes>
+    </test>
+</suite>
